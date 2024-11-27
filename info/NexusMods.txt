@@ -1,0 +1,21 @@
+[font=Verdana][size=4][b]Description[/b][/size][/font]
+Since update 1.5.11 (27.11.2024) gore censorship has been implemented for some countries.
+It looks like Germany, Austria and Japan are currently affected.
+The mod lifts the restrictions for the Steam version but also potentially for all other PC versions of the game as well (untested).
+
+[font=Verdana][size=4][b]Requirements[/b][/size][/font]
+[size=3]- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/19]Darktide Mod Loader[/url]
+- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/8]Darktide Mod Framework[/url][/size]
+
+[font=Verdana][size=4][b]Installation[/b][/size][/font]
+1. Read descriptions and install [url=https://www.nexusmods.com/warhammer40kdarktide/mods/19]Darktide Mod Loader[/url] and [url=https://www.nexusmods.com/warhammer40kdarktide/mods/8]Darktide Mod Framework[/url]
+2. Download and install latest version of the mod with Vortex from the [b]Files[/b] tab.
+3. Make sure the mod is enabled in Vortex's [b]Load Order[/b] tab.
+4. In game you can disable options in the [b]Mod Options[/b] menu.
+
+
+[b][url=https://github.com/igromanru/DarkTide-RemoveRegionRestrictions]GitHub Page[/url][/b]
+
+[font=Arial][size=4]Highest form of appreciation[/size][/font]
+[size=2]If you like my work and feel generous, you can support me.[/size]
+[url=https://ko-fi.com/igromanru][img]https://i.imgur.com/rGcPxK8.png[/img][/url]

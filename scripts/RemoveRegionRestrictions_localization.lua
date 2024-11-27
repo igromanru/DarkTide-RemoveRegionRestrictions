@@ -1,4 +1,8 @@
-local mod = get_mod("RemoveRegionRestrictions")
+--[[
+    Author: Igromanru
+    Date: 28.11.2024
+    Mod Name: Remove Region Restrictions
+]]
 
 return {
   mod_name =
@@ -7,6 +11,9 @@ return {
   },
   mod_description =
   {
-    en = "Removes region based gore censorship",
+    en = "Removes censorship for Germany, Austria and Japan",
+  },
+  mod_enable = {
+    en = "Enable"
   },
 }

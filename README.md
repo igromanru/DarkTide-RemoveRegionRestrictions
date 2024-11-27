@@ -1,5 +1,4 @@
 # Remove Region Restrictions mod for Warhammer 40,000: Darktide
-Game's gore has been censored for some regions since v1.15.11.
+Gore uncensor.
 
-
-[Official NexusMods page]()
+[Official NexusMods page](https://www.nexusmods.com/warhammer40kdarktide/mods/435)
