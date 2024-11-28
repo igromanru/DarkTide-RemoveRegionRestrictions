@@ -9,9 +9,9 @@ The mod lifts the restrictions for the Steam version but also potentially for al
 
 [font=Verdana][size=4][b]Installation[/b][/size][/font]
 1. Read descriptions and install [url=https://www.nexusmods.com/warhammer40kdarktide/mods/19]Darktide Mod Loader[/url] and [url=https://www.nexusmods.com/warhammer40kdarktide/mods/8]Darktide Mod Framework[/url]
-2. Download and install latest version of the mod with Vortex from the [b]Files[/b] tab.
+2. In [b]Files[/b] tab use the [b]Mod Manager Download[/b] button to install the mod with [url=https://www.nexusmods.com/about/vortex/]Vortex[/url].
 3. Make sure the mod is enabled in Vortex's [b]Load Order[/b] tab.
-4. In game you can disable options in the [b]Mod Options[/b] menu.
+4. Done.
 
 
 [b][url=https://github.com/igromanru/DarkTide-RemoveRegionRestrictions]GitHub Page[/url][/b]
