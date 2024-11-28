@@ -3,6 +3,9 @@
     Date: 28.11.2024
     Mod Name: Remove Region Restrictions
 ]]
+local mod = get_mod("RemoveRegionRestrictions")
+
+local SettingNames = mod:io_dofile("RemoveRegionRestrictions/scripts/setting_names")
 
 return {
   mod_name =
@@ -13,7 +16,13 @@ return {
   {
     en = "Removes censorship for Germany, Austria and Japan players",
   },
-  mod_enable = {
+  [SettingNames.EnableMod] = {
     en = "Enable"
+  },
+  [SettingNames.RagdollInteraction] = {
+    en = "Ragdoll Interaction"
+  },
+  [SettingNames.RagdollInteractionTooltip] = {
+    en = "Option for GamePass/XBox Live players"
   },
 }
