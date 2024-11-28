@@ -11,7 +11,7 @@ return {
   },
   mod_description =
   {
-    en = "Removes censorship for Germany, Austria and Japan",
+    en = "Removes censorship for Germany, Austria and Japan players",
   },
   mod_enable = {
     en = "Enable"
