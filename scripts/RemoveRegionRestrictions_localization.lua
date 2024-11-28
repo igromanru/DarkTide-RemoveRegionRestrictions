@@ -19,10 +19,4 @@ return {
   [SettingNames.EnableMod] = {
     en = "Enable"
   },
-  [SettingNames.RagdollInteraction] = {
-    en = "Ragdoll Interaction"
-  },
-  [SettingNames.RagdollInteractionTooltip] = {
-    en = "Option for GamePass/XBox Live players"
-  },
 }
