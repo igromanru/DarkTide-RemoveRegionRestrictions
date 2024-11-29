@@ -14,7 +14,7 @@ return {
   },
   mod_description =
   {
-    en = "Removes censorship for Germany, Austria and Japan players",
+    en = "Removes censorship for Japanese players",
   },
   [SettingNames.EnableMod] = {
     en = "Enable"
