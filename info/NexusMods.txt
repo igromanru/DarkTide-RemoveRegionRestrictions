@@ -1,7 +1,6 @@
 [font=Verdana][size=4][b]Description[/b][/size][/font]
-Since update 1.5.11 (27.11.2024) gore censorship has been implemented for some countries.
-It looks like Germany, Austria and Japan are currently affected.
-The mod lifts the restrictions for the Steam version but also potentially for all other PC versions of the game as well (untested).
+The mod lifts all region based restrictions. It should work for all current and future region restrictions for all countries.
+At the moment after patch [url=https://forums.fatsharkgames.com/t/hotfix-54-1-6-1-patch-notes/102597]1.6.1[/url] the mod unlocks the [b]Ragdoll Interaction[/b] feature for players in Germany and Austria.
 
 [font=Verdana][size=4][b]Requirements[/b][/size][/font]
 [size=3]- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/19]Darktide Mod Loader[/url]
